@@ -21,13 +21,21 @@
 <h3 class="heading-2">3.5. Moodboard</h3>
 <p>The Moodboard contains a collection of images the can be associated with the industry and the lifestyle of the target audience. It helps identify different colours and shapes with the aim of narrowing down a certain direction for the look-and-feel of the brand.</p>
 <h3 class="heading-2">3.6. Naming</h3>
-<h4>Primary Brand Name</h4>
-<h5>Polyfen</h5>
-<h4>Fallback Brand Name</h4>
-<h5>Polyfen Agency</h5>
-<h4>Corporate Name</h4>
-<h5>The Polyfen Group LLC</h5>
-<h4>Diminutive Name</h4>
-<h5>TPG / Poly</h5>
+<h4 class="heading-3">3.6.1. Etymology</h4>
+<p>"Polyfen" comes from an abstraction of the term “Polyphenic trait”. A polyphenic trait is a genetic property that allows multiple observable variations on organisms of a single species.</p>
+<p>The different morphology and color patterns on the shells of mollusks, for instance, are a polyphenic trait.</p>
+<h4 class="heading-3">3.6.2. Name Architecture</h4>
+<p><strong>Primary Brand Name:</strong><br/>
+Polyfen<br/>
+Preferred name alternative.</p>
+<p><strong>Fallback Brand Name:</strong><br>
+Polyfen Agency<br/>
+Fallback alternative for brand touchpoints where the primary brand name is not available.</p>
+<p><strong>Corporate Name:</strong><br>
+The Polyfen Group LLC<br/>
+Preferred name for use on all official business documentation.</p>
+<p><strong>Diminutive Name:</strong><br/>
+TPG / Poly<br/>
+Casual diminutive alternative for internal reference within the team.</p>
 <h3 class="heading-2">3.7. Brand Architecture</h3>
 </section>
