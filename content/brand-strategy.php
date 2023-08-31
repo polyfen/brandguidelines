@@ -21,5 +21,13 @@
 <h3 class="heading-2">3.5. Moodboard</h3>
 <p>The Moodboard contains a collection of images the can be associated with the industry and the lifestyle of the target audience. It helps identify different colours and shapes with the aim of narrowing down a certain direction for the look-and-feel of the brand.</p>
 <h3 class="heading-2">3.6. Naming</h3>
+<h4>Primary Brand Name</h4>
+<h5>Polyfen</h5>
+<h4>Fallback Brand Name</h4>
+<h5>Polyfen Agency</h5>
+<h4>Corporate Name</h4>
+<h5>The Polyfen Group LLC</h5>
+<h4>Diminutive Name</h4>
+<h5>TPG / Poly</h5>
 <h3 class="heading-2">3.7. Brand Architecture</h3>
 </section>
