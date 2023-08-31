@@ -14,10 +14,11 @@
     <nav>
         <h2 class="caption">Table of Contents</h2>
         <ul>
-            <li>1. Download assets</li>
-            <li>2. Market research</li>
-            <li>3. Brand strategy</li>
-            <li>4. Visual identity</li>
+            <li><a href="#" class="caption">Brand Guidelines</a></li>
+            <li><a href="#download-assets" class="caption">1. Download assets</a></li>
+            <li><a href="#market-research" class="caption">2. Market research</a></li>
+            <li><a href="#brand-strategy" class="caption">3. Brand strategy</a></li>
+            <li><a href="#visual-identity" class="caption">4. Visual identity</a></li>
         </ul>
     </nav>
     <main>
@@ -29,7 +30,7 @@
         </section>
         <hr>
         <!-- INCLUDE OVERVIEW.PHP start -->
-        <?php include 'content/download.php';?>
+        <?php include 'content/download-assets.php';?>
         <!-- INCLUDE OVERVIEW.PHP end -->
         <hr>
         <!-- INCLUDE OUR-GOAL.PHP start -->
