@@ -47,7 +47,7 @@
         <hr>
         <!-- INCLUDE OUR-TEAM.PHP start -->
         <?php include 'content/our-team.php';?>
-        <!-- INCLUDE OUR-TEAM.PHP end -->
+        <!-- INCLUDE OUR-TEAM.PHP end  -->
         <hr>
     </main>
   </body>
