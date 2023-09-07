@@ -43,7 +43,7 @@
         <hr>
         <!-- INCLUDE OUR-BRANDS.PHP start -->
         <?php include 'content/visual-identity.php';?>
-        <!-- INCLUDE OUR-BRANDS.PHP end -->
+        <!-- INCLUDE OUR-BRANDS.PHP  end -->
         <hr>
         <!-- INCLUDE OUR-TEAM.PHP start -->
         <?php include 'content/our-team.php';?>
