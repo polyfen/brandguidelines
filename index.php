@@ -14,7 +14,7 @@
     <nav>
         <h2 class="caption">Table of Contents</h2>
         <ul>
-            <li><a href="#" class="caption">Brand Guidelines</a></li>
+            <li><a href="#" class="caption" style="text-transform:uppercase !important;">Brand Guidelines</a></li>
             <li><a href="#download-assets" class="caption">1. Download assets</a></li>
             <li><a href="#market-research" class="caption">2. Market research</a></li>
             <li><a href="#brand-strategy" class="caption">3. Brand strategy</a></li>
