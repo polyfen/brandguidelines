@@ -19,6 +19,23 @@
 </div>
 </div>
 <p><strong>Polyfen Purple</strong> is the primary accent hue and must be used sparingly. It's reserved exclusively for buttons, links, and other important information.</p>
-<h4 class="heading-3">4.2.2. Support colors</h3>
-<h5 class="heading-4">Slate</h5>
+<h4 class="heading-3">4.2.2. Secondary color</h3>
+<div class="color-swatch-content">
+<div class="color-swatch" style="background-color: #070924;color: white;">Deep<br>Indigo</div>
+<div class="color-details">
+    <ul class="hanging-list">
+        <li>HEX: #070924</li>
+        <li>RGB: x, x, x</li>
+        <li>CMYK: x, x, x, x</li>
+    </ul>
+</div>
+</div>
+<p>This color is backgrounds mainly.</p>
+<h3 class="heading-2">4.3. Visual Language</h3>
+<h4 class="heading-3">4.3.1. Icons</h3>
+<p>All icons in Polyfen's touchpoints &amp; communications should correspond to the Iconography set we've selected for our Brand, <a href="https://phosphoricons.com/" target="_blank">Phospor</a>.</p>
+<h4 class="heading-3">4.3.2. Illustrations</h3>
+<p>Our Brand's illustrations uses the Retro Dudes set as a base. However, for illustrations in polyfen.com we've taken the time to apply an additional layer of gradients and noise textures to incorporate them seamlessly with the rest of our visual language.</p>
+<h4 class="heading-3">4.3.3. Photography</h3>
+<h4 class="heading-3">4.3.4. Background Elements</h3>
 </section>
