@@ -35,8 +35,15 @@
 <p>This color is backgrounds mainly.</p>
 <h3 class="heading-2">4.3. Visual Language</h3>
 <h4 class="heading-3">4.3.1. Icons</h3>
+<figure>
+<img src="imgs/icons.png" style="height:200px; width:auto;">
+</figure>
 <p>All icons in Polyfen's touchpoints &amp; communications should correspond to the Iconography set we've selected for our Brand, <a href="https://phosphoricons.com/" target="_blank">Phospor</a>.</p>
+<p>Phospor's line-icons are meant only for use at large sizes accross Polyfen's Brand, while for smaller sizes the fill-icons are preferred to ensure accessible legibility.</p>
 <h4 class="heading-3">4.3.2. Illustrations</h3>
+<figure>
+<img src="imgs/XX" style="height:400px; width:auto;">
+</figure>
 <p>Our Brand's illustrations uses the Retro Dudes set as a base. However, for illustrations in polyfen.com we've taken the time to apply an additional layer of gradients and noise textures to incorporate them seamlessly with the rest of our visual language.</p>
 <h4 class="heading-3">4.3.3. Photography</h3>
 <h4 class="heading-3">4.3.4. Background Elements</h3>
