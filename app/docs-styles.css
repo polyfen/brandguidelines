@@ -257,3 +257,10 @@ div.color-swatch-content {
 div.color-details ul {
     list-style: none;
 }
+
+figure {
+    background: white;
+    padding: 32px;
+    border-radius: 4px;
+    text-align: center;
+}
