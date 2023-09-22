@@ -235,3 +235,25 @@ nav ul li a {
         margin-top: 20px;
     }
 }
+
+div.color-swatch {
+    height: 160px;
+    width: 160px;
+    border-radius: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+div.color-swatch-content {
+    display: grid;
+    grid-template-columns: 160px 1fr;
+    grid-template-rows: 1fr;
+}
+
+div.color-details ul {
+    list-style: none;
+}
