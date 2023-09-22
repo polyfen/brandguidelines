@@ -39,3 +39,5 @@
 <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#7537f8">
 <meta name="msapplication-TileColor" content="#7537f8">
 <meta name="theme-color" content="#7537f8">
+
+<!-- CUSTOM PAGE SCRIPTS -->
