@@ -14,15 +14,15 @@
     <nav id="navbar">
       <h2 class="caption">Table of Contents</h2>
       <ul>
-        <li><a href="#" class="caption" style="text-transform:uppercase !important;">Brand Guidelines</a></li>
+        <li><a href="#" class="caption">Brand Guidelines</a></li>
         <li><a href="#download-assets" class="caption">1. Download assets</a></li>
         <li><a href="#market-research" class="caption">2. Market research</a></li>
         <li><a href="#brand-strategy" class="caption">3. Brand strategy</a></li>
         <li><a href="#visual-identity" class="caption">4. Visual identity</a></li>
-        <button aria-label="Open/Close navbar" tabindex="0" id="opener">
-          <img src="imgs/icons/hamburger_icon.svg" alt="" height="30px" width="auto">
-        </button>
       </ul>
+      <button aria-label="Open/Close navbar" id="opener">
+        <img src="imgs/icons/hamburger_icon.svg" alt="" height="30px" width="auto">
+      </button>
     </nav>
     <main>
       <section class="cover">
