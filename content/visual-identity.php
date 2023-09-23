@@ -42,9 +42,13 @@
 <p>Phospor's line-icons are meant only for use at large sizes accross Polyfen's Brand, while for smaller sizes the fill-icons are preferred to ensure accessible legibility.</p>
 <h4 class="heading-3">4.3.2. Illustrations</h3>
 <figure>
-<img src="imgs/XX" style="height:400px; width:auto;">
+<img src="imgs/illustrations-original.png" style="height:400px; width:auto;">
 </figure>
-<p>Our Brand's illustrations uses the Retro Dudes set as a base. However, for illustrations in polyfen.com we've taken the time to apply an additional layer of gradients and noise textures to incorporate them seamlessly with the rest of our visual language.</p>
+<p>Our Brand's illustrations uses the <a href="https://ui8.net/vectorly-space/products/retro-cartoon-illustrations" target="_blank">Retro Dudes</a> set by <a href="https://ui8.net/vectorly-space/products" target="_blank">Vectorly Space
+</a> as a base. However, for illustrations in <a href="https://polyfen.com" target="_blank">polyfen.com</a> we've taken the time to customize the illustrations adjusting some details and apply an additional layer of gradients and noise textures to incorporate them seamlessly with the rest of our visual language.</p>
+<figure>
+<img src="imgs/illustrations-custom.png" style="height:400px; width:auto;">
+</figure>
 <h4 class="heading-3">4.3.3. Photography</h3>
 <h4 class="heading-3">4.3.4. Background Elements</h3>
 </section>
