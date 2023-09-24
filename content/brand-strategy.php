@@ -29,7 +29,7 @@
 Polyfen<br/>
 Preferred name alternative.</p>
 <p><strong>Fallback Brand Name:</strong><br>
-Polyfen Agency<br/>
+Polyfen Group<br/>
 Fallback alternative for brand touchpoints where the primary brand name is not available.</p>
 <p><strong>Corporate Name:</strong><br>
 The Polyfen Group LLC<br/>
