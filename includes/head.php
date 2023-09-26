@@ -9,7 +9,7 @@
 <link rel="stylesheet" href="https://polynucleus.com/theme/docs-theme.css" type="text/css">
 
 <!-- scripts -->
-<script src="https://polynucleus.com/theme/docs-mobile-nav.js"></script>
+<script defer src="https://polynucleus.com/theme/docs-mobile-nav.js"></script>
 <!-- FONTS -->
 <!--
 /**
